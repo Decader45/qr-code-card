@@ -1,5 +1,5 @@
-body{
-   background-color:hsl(212, 45%, 89%);
+body {
+  background-color: hsl(212, 45%, 89%);
 }
 
 .container {
@@ -47,9 +47,9 @@ img {
 }
 
 p:nth-last-child(1) {
-    font-size: 15px;
-    font-weight: 400;
-    color: hsl(216, 6%, 69%);
+  font-size: 15px;
+  font-weight: 400;
+  color: hsl(216, 6%, 69%);
 }
 
 .card p {
